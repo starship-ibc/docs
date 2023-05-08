@@ -3,11 +3,13 @@ output: .retype
 url: https://starship-ibc.github.io/docs/
 branding:
   title: Andromaverse
-  label: Lore
+  label: Docs
 links:
   - text: Collections
-    link: https://starship-ibc.github.io/docs/
-  - text: Mint
+    link: https://starship-ibc.github.io/docs/collections
+  - text: Website
     link: https://andromaverse.io
+  - text: Discord
+    link: https://discord.gg/TMD4HsKdHd
 footer:
   copyright: "&copy; Copyright . All rights reserved."
