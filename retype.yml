@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: https://starship-ibc.github.io/docs/
+branding:
+  title: Andromaverse
+  label: Lore
+links:
+  - text: Collections
+    link: https://starship-ibc.github.io/docs/
+  - text: Mint
+    link: https://andromaverse.io
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
